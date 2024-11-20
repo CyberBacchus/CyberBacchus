@@ -1,16 +1,29 @@
-## Hi there 👋
+<h1 align="center">Yixin Shi</h1>
 
-<!--
-**CyberBacchus/CyberBacchus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<h2 align="left">I code with</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+</div>
+
+###
+
+<h2 align="left">R is my primary skill, and I mainly use it for:</h2>
+
+<div align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/Tidyverse_hex_logo.svg" height ="40">
+  <img width="12" />
+  <img src="https://pkg.robjhyndman.com/fpp3/logo.png" height ="40">  
+  <img width="12" />
+  <img src="https://torch.mlverse.org/css/images/hex/torch.png" height ="40">  
+  <img width="12" />
+  <img src="https://mlr3.mlr-org.com/logo.svg" height ="40">  
+  <img width="12" />
+</div>
