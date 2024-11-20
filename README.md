@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Yixin Shi</h1>
+<h1 align="center">Hi, I'm Yixin Shi, a tidy-R believer</h1>
 
 <h2 align="left">I code with:</h2>
 
