@@ -11,7 +11,7 @@
   <img src="https://www.svgrepo.com/show/374098/stata.svg" height="40" alt="stata logo"  />
 </div>
 
-<h2 align="left">I Use:</h2>
+<h2 align="left">I use:</h2>
 
 <div>
   <img src="https://raw.githubusercontent.com/posit-dev/positron/main/positron-product-icons/positron.png" height="40" alt="positron logo"  />
