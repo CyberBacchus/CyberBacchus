@@ -23,7 +23,7 @@
   <img width="12" />
 </div>
 
-<h2 align="left">R is my primary skill, and I mainly use it for:</h2>
+<h2 align="left">I use these R packages:</h2>
 
 <div align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/Tidyverse_hex_logo.svg" height ="40" alt="tidyverse logo"  />
