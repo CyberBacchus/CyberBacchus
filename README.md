@@ -32,6 +32,8 @@
   <img width="12" />
   <img src="https://torch.mlverse.org/css/images/hex/torch.png" height ="40" alt="rtorch logo"  />  
   <img width="12" />
+  <img src="https://rstudio.github.io/cheatsheets/html/images/logo-quarto.png" height ="40" alt="rtorch logo"  />  
+  <img width="12" />
   <img src="https://mlr3.mlr-org.com/logo.svg" height ="40" alt="mlr logo"  />  
   <img width="12" />
 </div>
