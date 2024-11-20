@@ -1,5 +1,6 @@
 <h1 align="left">Hi, I'm CyberBacchus (Yixin Shi)</h1>
 
+###
 <h2 align="left">I code with:</h2>
 
 
@@ -11,7 +12,7 @@
   <img src="https://www.svgrepo.com/show/374098/stata.svg" height="40" alt="stata logo"  />
 </div>
 
-
+###
 <h2 align="left">I Use:</h2>
 
 </div>
@@ -22,10 +23,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/jupyter/F37626" height="40" alt="jupyter logo"  /> 
-
-  
 </div>
 
+###
 <h2 align="left">R is my primary skill, and I mainly use it for:</h2>
 
 <div align="left">
