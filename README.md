@@ -1,9 +1,5 @@
 <h1 align="left">Hi, I'm CyberBacchus (Yixin Shi)</h1>
 
-<img align="right" width="300"
-  src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/4b5e9311-ae91-4fc4-8a8e-f96dde9fc5ea/dcqpdyy-5edf5d21-5a83-4919-aa1d-4c895d964ba4.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzRiNWU5MzExLWFlOTEtNGZjNC04YThlLWY5NmRkZTlmYzVlYVwvZGNxcGR5eS01ZWRmNWQyMS01YTgzLTQ5MTktYWExZC00Yzg5NWQ5NjRiYTQucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.S4FrkXvdPklCN8v17e3o3qjWHSjVB6xZOFwUYwFPPKc" />
-
-
 <h2 align="left">I code with:</h2>
 
 
