@@ -11,19 +11,6 @@
   <img src="https://www.svgrepo.com/show/374098/stata.svg" height="40" alt="stata logo"  />
 </div>
 
-
-<h2 align="left">I Use:</h2>
-
-</div>
-  <img src="https://styles.redditmedia.com/t5_83esp8/styles/communityIcon_eytolmfg1gra1.png" height="40" alt="typst logo"  />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/posit-dev/positron/main/positron-product-icons/positron.png" height="40" alt="positron logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/jupyter/F37626" height="40" alt="jupyter logo"  /> 
-</div>
-
 <h2 align="left">R is my primary skill, and I mainly use it for:</h2>
 
 <div align="left">
